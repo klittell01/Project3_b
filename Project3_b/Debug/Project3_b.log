@@ -1,0 +1,3 @@
+﻿  RayTacerKeyP3solution.cpp
+c:\users\kevin\source\repos\project3_b\project3_b\raytacerkeyp3solution.cpp(258): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project3_b.vcxproj -> C:\Users\kevin\source\repos\Project3_b\Debug\Project3_b.exe
